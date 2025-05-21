@@ -1,0 +1,50 @@
+[
+    {
+        "user": "12345",
+        "code": "1234",
+        "amount": 200,
+        "status": "approved"
+    },
+    {
+        "user": "12345",
+        "code": "1350",
+        "amount": 1000,
+        "status": "approved"
+    },
+    {
+        "user": "12345",
+        "code": "1234",
+        "amount": 500,
+        "status": "approved"
+    },
+    {
+        "user": "123456",
+        "code": "1350",
+        "amount": 200,
+        "status": "approved"
+    },
+    {
+        "user": "123456",
+        "code": "1350",
+        "amount": 500,
+        "status": "approved"
+    },
+    {
+        "user": "123456",
+        "code": "1635",
+        "amount": 200,
+        "status": "rejected"
+    },
+    {
+        "user": "123456",
+        "code": "6614",
+        "amount": 500,
+        "status": "approved"
+    },
+    {
+        "user": "harman",
+        "code": "9076",
+        "amount": 1000,
+        "status": "approved"
+    }
+]

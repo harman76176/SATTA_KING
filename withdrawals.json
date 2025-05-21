@@ -1,0 +1,26 @@
+[
+    {
+        "user": "123456",
+        "amount": 1500,
+        "status": "rejected",
+        "upi_details": "135005@oksbi"
+    },
+    {
+        "user": "123456",
+        "amount": 1600,
+        "status": "paid",
+        "upi_details": "13500@oksbui"
+    },
+    {
+        "user": "123456",
+        "amount": 1600,
+        "status": "rejected",
+        "upi_details": "123654@hjdsa"
+    },
+    {
+        "user": "harman",
+        "amount": 1820,
+        "status": "paid",
+        "upi_details": "454564#jjgghjh"
+    }
+]

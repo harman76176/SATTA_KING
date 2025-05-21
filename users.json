@@ -1,0 +1,18 @@
+{
+    "12345": {
+        "password": "12345",
+        "balance": 3000
+    },
+    "123456": {
+        "password": "1234",
+        "balance": 2160
+    },
+    "harman": {
+        "password": "$2y$10$ZonRDDCEDfjTyx95ZLOSYuE4n.1xX3gDbxPwO2mo9aJkLS68esxwm",
+        "balance": 200
+    },
+    "740450": {
+        "password": "$2y$10$8GfkVeDfdeFX8dIgqDblzO3DqtH.rY.bngWCzmQjJWvicr.TE6mWq",
+        "balance": 10
+    }
+}
